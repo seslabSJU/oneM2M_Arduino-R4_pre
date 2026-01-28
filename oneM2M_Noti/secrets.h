@@ -21,4 +21,4 @@
 //  oneM2M Notification 수신을 위한 MQTT Subscription topic 
 #define NOTY_SUB_TOPIC "/oneM2M/req/Mobius/" ORIGIN "/#"
 //  oneM2M Notification을 발생시킨 <sub> 리소스의 경로
-#define NOTY_SUB_RESOURCE "Mobius/ae_" CHALLENGE_TEAM "/temp/sub_temp"
+#define NOTY_SUB_RESOURCE "Mobius/ae_" STUDENT_NUMBER "_mqtt/temp/sub_temp"
